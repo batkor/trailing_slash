@@ -1,6 +1,7 @@
 name: 'Trailing slash'
-description: 'Custom module trailing slash'
+description: 'This module add trailing slash'
 type: module
 core: 8.x
 package: custom
-    
+
+core_version_requirement: ^8 || ^9
